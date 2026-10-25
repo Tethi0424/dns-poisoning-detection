@@ -68,6 +68,7 @@ dns-poisoning-detection/
 Demonstration Video Recordings
 Watch the live lab execution and step-by-step walkthroughs below:
 🔴 Kali Linux Attacker Demonstration Video: https://drive.google.com/file/d/1dxTKyoktIVj934A5t7nL4P-WSNZ-wjGe/view?usp=sharing
+
 🟡 Ubuntu 24.04 Victim & Defense Demonstration Video: https://drive.google.com/file/d/11i3XKaKD24BQd0zSNY5HDPruQXxGEP42/view?usp=sharing
 
 Demonstration Workflow
