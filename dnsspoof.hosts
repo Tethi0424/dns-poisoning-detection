@@ -1,0 +1,4 @@
+192.168.1.13    www.google.com
+192.168.1.13    *.google.com
+192.168.1.13    facebook.com
+192.168.1.13    example.com
